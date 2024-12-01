@@ -1,0 +1,11 @@
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "ateliermizumi.github.io"]
+	path = ateliermizumi.github.io
+	url = https://github.com/AtelierMizumi/ateliermizumi.github.io
+	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/AtelierMizumi/ateliermizumi.github.io
+	branch = main
