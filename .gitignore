@@ -13,3 +13,6 @@ bin-release/
 *.air
 *.ipa
 *.apk
+
+# Hugo 
+public/
